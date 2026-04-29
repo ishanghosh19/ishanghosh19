@@ -1,4 +1,5 @@
-# Hi, I'm Ishan Ghosh 👋
+# Hi 👋, I'm Ishan Ghosh
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3670A0&width=435&lines=Computer+Science+Student;Machine+Learning+Enthusiast;GSSoC+2026+Contributor;Quantitative+Dev+In-Training" alt="Typing SVG" />
 
 I am a first-year **Computer Science and Business Systems (CSBS)** student at JSS Science and Technology University (SJCE), Mysore. I am passionate about bridging the gap between complex engineering and business logic through **Machine Learning**, **Data Analytics**, and **Quantitative Development**.
 
