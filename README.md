@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%">
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3670A0&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishan+Ghosh" alt="Typing SVG" /></div>
 
 I am a first-year **Computer Science and Business Systems (CSBS)** student at JSS Science and Technology University (SJCE), Mysore. I am passionate about bridging the gap between complex engineering and business logic through **Machine Learning**, **Data Analytics**, and **Quantitative Development**.
@@ -13,4 +13,6 @@ I am a first-year **Computer Science and Business Systems (CSBS)** student at JS
 - **Specializations**: Machine Learning, Data Visualization, IoT (Arduino/ESP32)
 - **Tools**: Git, VS Code, Linux
 ---
-📫 **How to reach me**: https://www.linkedin.com/in/ishan-ghosh-422771373/
+📫 **How to reach me**: <a href="https://www.linkedin.com/in/ishan-ghosh-422771373/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
